@@ -122,6 +122,43 @@ Subject to the limitations in Section 1 and verification of the GETYOURGUIDE U.S
 
 ---
 
+## Addendum A — Alternative Mark: YOUR NATURALIST (added July 10, 2026)
+
+### A.1 Assessment
+
+A knockout search found **no federal application or registration for YOUR NATURALIST and no third-party brand use** of the name or of yournaturalist.com (domain registration status could not be verified from this environment and must be checked directly).
+
+Dropping "GET" **eliminates the specific problem with GetYourGuide**: the mark no longer copies the GET YOUR + [guide-type] formula, cadence, or commercial impression, and "your naturalist" is an ordinary possessive phrase rather than an echo of a famous brand. Confusion risk versus GET YOUR GUIDE falls from moderate-to-substantial to **low**. Residual considerations:
+
+1. **Descriptiveness persists.** YOUR NATURALIST for a naturalist-booking service is still highly descriptive — the Section 2(e)(1) analysis in Section 5 applies essentially unchanged. The rename fixes the conflict problem, not the weak-mark problem.
+2. **iNaturalist adjacency.** As a compressed one-word brand ("YourNaturalist"), the construction [short prefix] + NATURALIST sits closer to INATURALIST than the current name does. For a travel-booking marketplace this is a **low** risk; it would grow if the platform ever adds species-observation or ID features. Preferring the two-word presentation ("Your Naturalist") keeps the distance.
+3. All other Section 3 findings (crowded descriptive field; Berdels apparel caution for merch) carry over.
+
+**Net: YOUR NATURALIST is meaningfully safer than GET YOUR NATURALIST — it trades the GetYourGuide dispute risk for a merely weaker (narrower-protection) mark.** That is usually the right trade for a business whose main asset is the marketplace itself rather than the name.
+
+### A.2 Naming strategy and alternative candidates
+
+Trademark strength runs descriptive → suggestive → arbitrary/coined; protection and registrability grow along that line while self-explanation shrinks. Candidates below are **naming-strategy input only — none has been searched beyond the knockout level noted, and any finalist needs its own clearance before adoption.**
+
+**Tier 1 — descriptive, safe-from-conflict but weak (like Your Naturalist):**
+- YOUR NATURALIST — best of this tier; see A.1
+- THE NATURALIST NETWORK / NATURALIST COLLECTIVE — same trade-offs, more syllables
+
+**Tier 2 — suggestive (best balance of ownability and meaning):**
+- LIFER — birder slang for a first-ever species sighting; instantly resonant with the core audience, only suggestive of the service (needs search: the word is used by scattered small brands)
+- ENDEMIC — birding/ecology term implying "found only here, with the person who knows where"
+- FIELDGUIDED — plays on "field guide"/"guided in the field" (needs search for FIELD GUIDE-formative marks)
+
+**Tier 3 — arbitrary for booking services (strongest legal position):**
+- QUETZAL — already the site's own search placeholder; evocative, global-birding credible, arbitrary for a booking platform (expect crowded but likely clearable field; check travel-sector uses)
+- TROGON, VIREO, or similar charismatic-species names (VIREO is used in other industries — class-specific search needed)
+
+**Known conflicts to avoid** (existing brands in or near this space): WILDSIDE (Wildside Nature Tours, U.S. birding tour operator), PELAGO (Singapore Airlines' activities-booking platform), WILDBOOK (conservation software), FIELD NOTES (famous notebook brand).
+
+**Recommendation:** if renaming, shortlist two or three (e.g., YOUR NATURALIST for continuity, plus one Tier 2/3 candidate), run knockout searches on each, and have counsel clear the winner. A suggestive or arbitrary name costs some self-explanation on day one but buys a mark that can actually be enforced as the marketplace grows.
+
+---
+
 ### Principal sources consulted
 
 - [USPTO trademark search](https://tmsearch.uspto.gov/) / [TSDR](https://tsdr.uspto.gov/) (via web-indexed mirrors)
