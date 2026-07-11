@@ -1,0 +1,6 @@
+# Project-level Codex config for the Fable-directs / Codex-writes dev loop.
+# Applies when Codex trusts this project directory. User-level ~/.codex/config.toml
+# is the fallback. Set `model` to whatever your Codex account exposes (run `codex`
+# and check available models, or `codex --help`); the value below is a placeholder.
+model = "gpt-5.6"                 # <-- Writer model. Edit to your available Codex model.
+model_reasoning_effort = "high"   # give the Writer room to reason on each increment
